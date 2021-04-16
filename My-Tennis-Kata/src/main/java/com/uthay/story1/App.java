@@ -1,4 +1,4 @@
-package com.uthay;
+package com.uthay.story1;
 
 /**
  * Hello world!
