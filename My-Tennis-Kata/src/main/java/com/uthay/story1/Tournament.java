@@ -12,6 +12,7 @@ public class Tournament {
 
 	public String getScore() {
 
+		//Uthay
 		/*
 		 * if(player1.getWin() == 1) { return getLeadPlayer().getName() +
 		 * " won"; } else if (player1.getWin() == 2) { return
