@@ -4,7 +4,7 @@
 
   <groupId>com.uthay</groupId>
   <artifactId>My-Tennis-Kata</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
   <name>My-Tennis-Kata</name>
