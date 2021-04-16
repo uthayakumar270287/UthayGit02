@@ -1,7 +1,7 @@
 package com.uthay;
 
 /**
- * Hello world!
+ * Hello WORLD!
  *
  */
 public class App 
